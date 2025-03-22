@@ -22,7 +22,7 @@ var (
 )
 
 func main() {
-	fmt.Println("Photo Downloader")
+	fmt.Println("TXTBatchJPGFetcher")
 
 	reader := bufio.NewReader(os.Stdin)
 
